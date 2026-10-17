@@ -1,0 +1,6 @@
+{
+  "name": "LE BERCEAU DES 3S",
+  "description": "Site officiel de l'école LE BERCEAU DES 3S en Guinée. Éducation d'excellence, maternelle, primaire, collège, galerie photos/vidéos, actualités scolaires et contact WhatsApp direct (+224 662 11 80 00).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
